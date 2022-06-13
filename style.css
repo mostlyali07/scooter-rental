@@ -1,7 +1,21 @@
+@font-face {
+    font-family: "Sora";
+    src: url(/fonts/Sora-Regular.ttf);
+}
+
 .btn-1 {
+    font-size: 12px;
     color: #ffffff;
     background-color: #00d285;
     border-color: transparent;
+    font-family: "Sora";
+    border-radius: 25px;
     margin: 0px 5px;
-    padding: 12px 20px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.btn-1:hover {
+    background-color: #46ad88;
 }
