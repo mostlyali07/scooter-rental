@@ -3,6 +3,16 @@
     src: url(/fonts/Sora-Regular.ttf);
 }
 
+@media(max-width: 600px) {
+    .my-nav {
+        padding: 20px 0% !important;
+    }
+}
+
+.my-nav {
+    padding: 20px 13%;
+}
+
 .btn-1 {
     font-size: 12px;
     color: #ffffff;
