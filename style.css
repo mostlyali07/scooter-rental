@@ -67,8 +67,12 @@
 }
 
 .col-bl {
+    background-image: url(/imgs/scooterrental-slider-bg1.png);
+    background-size: contain;
+    background-position: left top;
+    background-repeat: no-repeat;
     background-color: #000;
     height: 636px;
     padding: 10% 5%;
-    border-radius: 60px;
+    border-radius: 60px 30px 60px 30px;
 }
